@@ -1,4 +1,4 @@
-package com.wowcher;
+package com.iceze;
 
 /**
  * Invalid time exception

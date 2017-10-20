@@ -1,4 +1,4 @@
-package com.wowcher;
+package com.iceze;
 
 import org.apache.commons.lang3.StringUtils;
 

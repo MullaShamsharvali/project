@@ -1,14 +1,16 @@
-package com.wowcher;
+package com.iceze;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.iceze.BasicSpeakingClock;
+import com.iceze.InvalidTimeException;
 
 import static org.hamcrest.CoreMatchers.allOf;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
-
 import static org.junit.Assert.*;
 
 public class SpeakingClockTest {
