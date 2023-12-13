@@ -3,7 +3,7 @@ package com.iceze;
 /**
  * Common functionality for time conversion into words. 
  * 
- * @author miroslav
+ * @author Shamsher
  *
  */
 public interface SpeakingClock {
