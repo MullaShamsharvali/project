@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * Basic implementation of the Speaking Clock
  * 
- * @author miroslav
+ * @author Shamsher
  */
 public class BasicSpeakingClock implements SpeakingClock {
 	private static final String[] UNITS_ARRAY = {"zero","one","two","three","four", "five","six","seven",
